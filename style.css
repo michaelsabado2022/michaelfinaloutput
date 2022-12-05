@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriwearther', sans-serif;
+}
+h1 {
+    color: #66bfbf;
+    font-size: 5.625em;
+    margin: 50px auto 0 auto;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5em;
+    font-weight: normal;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 10px;
+    width: 6%;
+    color: gray    ;
+
+}
+
+h3 {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+}
+
+.prof{
+    margin: 25px 600px 100px 600px;
+    line-height: 2;
+}
+.profile{
+    border-radius: 50%;
+    width: 30%;
+    border-style: solid;
+    border-width: 8px;
+    height: 200px;
+    color: #11999e;
+}
+
+.sleep{
+    border-radius: 50%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-left: auto;
+    height: 200px;
+}
+
+.games{
+    border-radius: 50%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    margin-right: auto;
+    height: 200px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+    line-height: 40px;
+}
+
+.bottom-container {
+    background-color: #11999e;
+    height: 150px;
+}
+
+.btn {
+    background-color: #11999e;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-decoration: none;
+
+}
+
+.footer-link {
+    text-decoration: none;
+    padding:30px 20px ;
+    color: aliceblue;
+    display: inline-block;
+}
+.copyright {
+    color: white;
+}
